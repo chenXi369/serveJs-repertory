@@ -1,1 +1,1 @@
-# serveJs-repertory
+# 常用业务场景js封装（熟肉）- 可直接食用
